@@ -1,4 +1,4 @@
-# IPCMobile BTLE Demo for XCode
+# QuantumSDK BTLE Demo for XCode
 
 ## Getting the SDK and Developer Key
 1. Login to [IPCMobile Developer Portal](https://developer.ipcmobile.com/).
